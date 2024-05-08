@@ -1,6 +1,6 @@
 Tecnologia utilizadas
 PHP,
-MySQL,
+MySQL
 e
 Css
 
