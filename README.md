@@ -1,7 +1,6 @@
-Tecnologia utilizadas
-PHP,
-MySQL
-e
-Css
+**Sistema de Cadastro de Usuário com PHP e MySQL**
 
-Desenvolvi um sistema de cadastro de usuário utilizando PHP para verificação dos dados e MySQL para armazenamento das informações dos clientes. O sistema inclui uma tela de login que redireciona os usuários cadastrados para o painel de controle. Nesse painel, os usuários podem visualizar suas informações, incluindo o e-mail usado no cadastro, nome completo e data de nascimento.
+* Sistema de cadastro de usuário desenvolvido com PHP, MySQL e CSS.
+* Verificação de dados feita com PHP e armazenamento no MySQL.
+* Tela de login redireciona usuários para um painel de controle.
+* No painel, usuários visualizam informações como e-mail, nome e data de nascimento.
